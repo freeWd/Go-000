@@ -1,4 +1,4 @@
-module go-gin-app
+module go-web-error
 
 go 1.15
 
